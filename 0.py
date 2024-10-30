@@ -15,3 +15,5 @@ f = interpolate.interp1d(x, y, fill_value="extrapolate")
 plt.plot(x, y, 'o', x, y, '--')
 plt.show()
 
+# мой тестовый путь
+# мой тестовый путь 1
